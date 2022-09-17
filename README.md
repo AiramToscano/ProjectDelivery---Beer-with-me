@@ -1,11 +1,23 @@
-# Boas vindas ao repositório do projeto App de Delivery!
+# Boas vindas ao repositório do projeto Beer with me!
 
-Para realizar o projeto, atente-se a cada passo descrito a seguir, e se tiver qualquer dúvida, nos envie por _Slack_! #vqv 🚀
+## Time
 
-Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu projeto a partir deste repositório, utilizando uma branch específica e um _Pull Request_ para colocar seus códigos.
+  - [@AiramToscano](https://github.com/AiramToscano);
+  - [@mlopeesz](https://github.com/mlopeesz);
+  - [@raffael-marinho](https://github.com/raffael-marinho);
+  - [@VictorMartinsDuarte](https://github.com/VictorMartinsDuarte);
+  - [@larissajuliavsa](https://github.com/larissajuliavsa);
 
 ---
+## Tecnologias usadas:
 
+  - React Hooks and Context API
+  - Tailwind CSS
+  - Node.js
+  - Trello as a Kanban
+  - Mysql
+
+---
 <details>
   <summary>
     <strong>👨‍💻 O que deverá ser desenvolvido</strong>
@@ -38,3 +50,7 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
   Agora é mãos à obra! Vamos começar?
 
 </details>
+
+---
+## Preview do projeto
+![beerwithme](https://github.com/AiramToscano/ProjectDelivery---Beer-with-me/blob/main-group-6/deliveryApp-preview.gif)
